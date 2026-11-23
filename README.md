@@ -4,7 +4,7 @@ I passed the French bar and I teach myself machine learning by building things. 
 
 ### Research: ThinkingCap
 
-Teaching Qwen3-0.6B to think shorter without losing accuracy, for BottleCap AI's [ThinkingCap test](https://github.com/BottleCapAI/ThinkingCap-Test). Write-up: [arsenelemoigne.eu/posts/thinkingcap](https://arsenelemoigne.eu/posts/thinkingcap/). Code: after the submission.
+Teaching Qwen3-0.6B to think shorter without losing accuracy, for BottleCap AI's [ThinkingCap test](https://github.com/BottleCapAI/ThinkingCap-Test). Write-up: [arsenelemoigne.eu/posts/thinkingcap](https://arsenelemoigne.eu/posts/thinkingcap/). Code: after the submission. Model: [qwen3-0.6b-lupin](https://huggingface.co/arsenelemoigne/qwen3-0.6b-lupin) · Code: [thinkingcap-lupin](https://github.com/arsenelemoigne/thinkingcap-lupin)
 
 ### Courses
 
